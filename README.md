@@ -40,3 +40,7 @@ Three models trained:
 Twitter is crucial during emergencies. This competition aims to develop a model to predict which tweets are about real disasters. The dataset includes 10,000 hand-classified tweets. New to NLP? Start with our tutorial.
 
 **Tweet source**: [Example Tweet](https://twitter.com/AnyOtherAnnaK/status/629195955506708480)
+
+## Contributor
+Nuo Xu  
+Daniel Ye
