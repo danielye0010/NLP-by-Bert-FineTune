@@ -31,16 +31,6 @@ Three models trained:
 - **Keywords Model**: 7 epochs.
 - **Location Model**: 3-4 epochs.
 
-## Discussion
-- **Ranking**: Our model ranks 242nd among over 1000 submissions.
-- **Performance**: Text model outperformed others in prediction accuracy.
-- **Future Work**: Propose weighting models based on training accuracy for combined predictions. Suggest using TPUs for better performance due to optimized tensor operations.
-
-## Competition Description
-Twitter is crucial during emergencies. This competition aims to develop a model to predict which tweets are about real disasters. The dataset includes 10,000 hand-classified tweets. New to NLP? Start with our tutorial.
-
-**Tweet source**: [Example Tweet](https://twitter.com/AnyOtherAnnaK/status/629195955506708480)
-
 ## Contributor
 Nuo Xu  
 Daniel Ye
