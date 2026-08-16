@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# New training outputs
+artifacts/
+submission*.csv
+
+# TensorFlow runtime artifacts
+logs/
+*.h5
+*.keras
