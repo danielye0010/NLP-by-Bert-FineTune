@@ -1,0 +1,6 @@
+numpy
+pandas
+tensorflow==2.11.*
+tensorflow-hub
+tensorflow-text==2.11.*
+tf-models-official==2.11.*
